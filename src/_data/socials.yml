@@ -1,25 +1,20 @@
 email:
-  handle: joe@masilotti.com
-  title: Email Joe
-  href: mailto:joe@masilotti.com
+  handle: lobothijau@gmail.com
+  title: Email Bagus
+  href: mailto:lobothijau@gmail.com
   icon: solid/envelope
 twitter:
-  handle: joemasilotti
+  handle: gusajisan
   title: Follow on Twitter
-  href: https://twitter.com/joemasilotti
+  href: https://twitter.com/gusajisan
   icon: twitter
 github:
-  handle: joemasilotti
+  handle: lobothijau
   title: Follow on GitHub
-  href: https://github.com/joemasilotti
+  href: https://github.com/lobothijau
   icon: github
-mastodon:
-  handle: joemasilotti
-  title: Follow on Mastodon
-  href: https://ruby.social/@joemasilotti
-  icon: mastodon
 linkedin:
-  handle: joemasilotti
+  handle: baguzzzaji
   title: Follow on LinkedIn
-  href: https://www.linkedin.com/in/joemasilotti
+  href: https://www.linkedin.com/in/baguzzzaji
   icon: linkedin

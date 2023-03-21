@@ -1,23 +1,23 @@
 -
-  title: Turbo Native consulting
+  title: App Development
   icon: /images/icons/outline/computer_desktop.svg
   href: _pages/services.erb
-  cta: Work with Joe
+  cta: Work with Bagus
   description: |
-    Development, advisory, and custom Turbo Native training for your team.
+    Consultancy and development to build and grow your business. 
 
 -
-  title: Turbo Native workshop
+  title: Training & Workshop
   icon: /images/icons/outline/academic_cap.svg
   href: _pages/turbo-native-workshop.md
-  cta: Attend a workshop
+  cta: Plan your training
   description: |
-    Small, interative workshops to learn the basics of Turbo Native and iOS.
+    Learn mobile app development with an experienced trainer.
 
 -
-  title: Follow my journey
+  title: My Writings 
   icon: /images/icons/outline/newspaper.svg
   href: _pages/articles.erb
   cta: Read more
   description: |
-    Writing on Turbo Native, Ruby on Rails, and building transparent businesses.
+    I love writing and shraring what I learned on app development.

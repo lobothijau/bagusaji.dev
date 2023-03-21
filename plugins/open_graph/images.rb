@@ -9,9 +9,5 @@ class OpenGraph::Images
     site.collections.posts.resources.each do |post|
       OpenGraph::Image.new(post.id, site:).download
     end
-
-    site.collections.hotwire.resources.each do |newsletter|
-      OpenGraph::Image.new(newsletter.id, site:).download
-    end
   end
 end

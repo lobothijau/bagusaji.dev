@@ -1,9 +1,9 @@
 class Project < SiteComponent
-  attr_reader :name, :description, :link, :logo
+  attr_reader :name, :description, :link, :logo, :thumbnail
 
-  def initialize(name:, description:, link:, logo:)
-    @name, @description, @link, @logo =
-      name, description, link, logo
+  def initialize(name:, description:, link:, logo:, thumbnail:)
+    @name, @description, @link, @logo, @thumbnail =
+      name, description, link, logo, thumbnail
   end
 
   def link_options

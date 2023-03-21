@@ -13,20 +13,8 @@ permalink: /articles/
 ) do %>
   <div class="flex max-w-3xl flex-col space-y-12">
     <%= render Article.new(collections.posts.resources.first, hide_date: true, badge: :new) %>
-
-    <div class="space-y-16">
-      <% collections.posts.resources.select { |r| r.data.favorite }.sort_by { |r| r.data.index }.each do |post| %>
-        <%= render Article.new(post, hide_date: true, badge: :favorite) %>
-      <% end %>
-    </div>
   </div>
 <% end %>
-
-<div class="mt-20 sm:px-8">
-  <div class="mx-auto max-w-7xl lg:px-8">
-    <%= render WideNewsletter.new(site.data.newsletters.hotwire, border: "border-y") %>
-  </div>
-</div>
 
 <%= render UI::SimpleLayout.new(
   intro: "And everything I've ever published, in reverse chronological order."
