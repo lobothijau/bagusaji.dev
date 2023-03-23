@@ -9,12 +9,23 @@ Fast forward to 2017, due to my skills in writing programming I was invited to j
 
 ## Codepolitan
 
-Codepolitan was my very first company I join before graduation ceremoy. Here I work with multiple roles and my first role was writer plus editor. 
+Codepolitan was my very first company I joined before graduation ceremony. At this company I work with multiple roles and my first role was a writer plus editor. I wrote programming tutorials and editing community submitted articles. One year at the company, they started an offline-based training with Android class and I moved to a trainer role.
 
-I started by journey in 2012 at Pivotal Labs where I learned Ruby on Rails, test-driven development, and pair programming.
+Back then when I teach my first class, I'm not actually proficient in Android development. I know how to develop an app, but teaching it to others was still difficult (since I'm not actually understand many things). But, due to the needs to keep learning and upgrading my skills, slowly I grasp the secrets of native Android development. 
 
-After Labs I worked for a startup for 5 years as the lead developer. I built the iOS and Android apps with Turbo Native and advice from the team at Basecamp. Back when it was still called Turbolinks!
+## Freelancing
 
-At the beginning of 2020 I decided to stake out on my own and went independent. Since then I've worked on a bunch of side projects and launched dozens of apps in the App Store.
+Beside my main job as a trainer, I also started freelancing. I built apps for clients mostly through word-of-mouth referral. Fortunately, my main job requires me to meet new peoples with different background with a needs for an Android app development. I got many opportunities from them. One of my student becoming my supervisor at current company. 
 
-Now I'm focused on spreading Turbo Native and teaching developers what it takes to be a solopreneur. I'm sharing my journey as the solo-founder of transparent businesses like [RailsDevs](https://railsdevs.com), the _reverse_ job board for Ruby on Rails developers.
+## Logique
+
+After three years working, finally I changed career from a trainer to a fulltime mobile developer. I got the job through my connection with a former student at previous work. 
+
+I started as an outsourced Android developer, but since the company needs dedicated developer then I did some interviews before securing the job. 
+
+## Current Activity
+
+I'm still working at [Logique](https://logique.co.id), they paid me well and the jobs was not very hard. I also have times to explore many things other than my main job. 
+
+My main goal for 2023 is to explore more on UI/UX design and web programming. I know, I know that becoming a generalist was not recommended, but I have many ideas which only applicable by writing web code. I'm going to write my experience on approaching web development on this site. 
+
