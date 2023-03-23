@@ -14,10 +14,18 @@
     external: false
   thumbnail: gadai-front.jpeg
 
-- name: Real Time Bidding App
+- name: Real Time Bidding 
   description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
   link:
     href: /projects/jba-indonesia/
     label: Read details 
     external: false
   thumbnail: jba-splash.jpg
+
+- name: Car & Bike Inspection 
+  description: Universal Collection Inspection app digitalize car & bike inspection process with beautiful UI and smooth experience.
+  link:
+    href: /projects/universal-lelang-inspection/
+    label: Read details 
+    external: false
+  thumbnail: balai-lelang-inspection.jpeg
