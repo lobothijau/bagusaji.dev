@@ -1,5 +1,7 @@
 <%= render UI::Card.new(as: "li") do %>
-  <img src="/images/projects/<%= thumbnail %>" alt="<%= name %> cover image" class="object-cover rounded-md">
+  <% unless thumbnail.to_s.strip.empty? %>
+      <img src="/images/projects/<%= thumbnail %>" alt="<%= name %> cover image" class="h-48 w-full object-cover rounded-md relative z-10 shadow-2xl">
+  <% end %>
 
   <h2 class="mt-6 text-base font-semibold text-zinc-800">
     <%= render UI::Card::Link.new(link.href, **link_options) do %>

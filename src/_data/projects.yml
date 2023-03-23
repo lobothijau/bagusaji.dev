@@ -1,43 +1,15 @@
 - name: Buma Digiman
   description: Bukit Makmur Mandiri Utama Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
   link:
-    href: https://play.google.com/store/apps/details?id=com.bukitmakmur.digiman
-    label: Play Store
-    external: true
-  logo: railsdevs.png
+    href: /projects/buma-digiman/
+    label: Read details 
+    external: false
   thumbnail: digiman-1.jpeg
 
-- name: RailsDevs
-  description: The reverse job board exclusively for Ruby on Rails developers. An open source app.
+- name: Gadai ValueMax
+  description: Bukit Makmur Mandiri Utama Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
   link:
-    href: https://railsdevs.com
-    label: railsdevs.com
-    external: true
-  logo: railsdevs.png
-  thumbnail:
-
-- name: Turbo Native workshop
-  description: Learn how to use the native iOS Turbo wrapper to build high-fidelity hybrid apps.
-  link:
-    href: /turbo-native-workshop
-    label: masilotti.com
-  logo: workshop.png
-  thumbnail:
-
-- name: Masilotti.com
-  description: This blog! An open source Bridgetown site designed with Tailwind CSS + UI.
-  link:
-    href: https://github.com/joemasilotti/masilotti.com
-    label: github.com
-    external: true
-  logo: masilotti.jpg
-  thumbnail:
-
-- name: Jumpstart Pro iOS
-  description: An iOS template to supercharge your Rails application with easy native integration.
-  link:
-    href: https://jumpstartrails.com/ios
-    label: jumpstartrails.com
-    external: true
-  logo: jumpstart.png
-  thumbnail:
+    href: /projects/gadai-valuemax/
+    label: Read details 
+    external: false
+  thumbnail: gadai-front.jpeg

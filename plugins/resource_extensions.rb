@@ -9,8 +9,7 @@ module ResourceExtensions
     end
 
     def back_href
-      # TODO: Why can't I use url_for here?
-      data.series_path || "/articles"
+      data.back_href || "/articles"
     end
   end
 end

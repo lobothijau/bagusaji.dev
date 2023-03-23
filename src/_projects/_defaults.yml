@@ -1,5 +1,6 @@
 layout: post
-template_engine: liquid
+template_engine: erb
 cached_previewify_image: true
 previewify_template: 999
 previewify_image: /images/joe-no-background.png
+back_href: /projects

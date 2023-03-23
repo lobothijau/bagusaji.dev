@@ -14,12 +14,13 @@ previewify_site_id: 755
 
 # TODO: Move to config/initializers.rb.
 collections:
+  projects:
+    output: true
   snippets:
     output: false
 
 # TODO: Move to config/initializers.rb.
 feed:
   collections:
-
-# TODO: Categories, tags, or custom taxonomies for turbo-ios series.
-# https://www.bridgetownrb.com/docs/resources#taxonomies
+    projects: 
+      path: /projects.xml

@@ -8,8 +8,7 @@ permalink: /articles/
 ---
 
 <%= render UI::SimpleLayout.new(
-  title: "My writing on Turbo Native, Ruby on Rails, and building transparent businesses.",
-  intro: "Get started with my latest article and some of my favorites."
+  title: "My writing on app development related activities.",
 ) do %>
   <div class="flex max-w-3xl flex-col space-y-12">
     <%= render Article.new(collections.posts.resources.first, hide_date: true, badge: :new) %>
