@@ -17,4 +17,4 @@ The app was built with GetX for favigation & state management. To handle push no
 
 <img src="/images/projects/gadai-loan-simulation.jpeg" class="h-96 w-full object-cover"/>
 
-Gadai ValueMax available to download from <a href="https://play.google.com/store/apps/details?id=id.valuemax.customer" target="_blank">Google Play</a> and <a href="https://apps.apple.com/id/app/gadai-valuemax/id1610290035" target="_blank">Apple App Store</a>.
+Gadai ValueMax is available to download from <a href="https://play.google.com/store/apps/details?id=id.valuemax.customer" target="_blank">Google Play</a> and <a href="https://apps.apple.com/id/app/gadai-valuemax/id1610290035" target="_blank">Apple App Store</a>.
