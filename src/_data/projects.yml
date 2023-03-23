@@ -1,15 +1,23 @@
-- name: Buma Digiman
-  description: Bukit Makmur Mandiri Utama Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
+- name: Heavy Equipment Inspection
+  description: BUMA Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
   link:
     href: /projects/buma-digiman/
     label: Read details 
     external: false
-  thumbnail: digiman-1.jpeg
+  thumbnail: digiman-form.png
 
-- name: Gadai ValueMax
-  description: Bukit Makmur Mandiri Utama Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
+- name: Online-based Fiduciary 
+  description: Gadai ValueMax is a Flutter built project for Android and iOS to help customer perform fiduciary from the comfort of their home. 
   link:
     href: /projects/gadai-valuemax/
     label: Read details 
     external: false
   thumbnail: gadai-front.jpeg
+
+- name: Real Time Bidding App
+  description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
+  link:
+    href: /projects/jba-indonesia/
+    label: Read details 
+    external: false
+  thumbnail: jba-splash.jpg
