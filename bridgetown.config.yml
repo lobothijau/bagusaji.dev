@@ -10,7 +10,7 @@ production:
   url: https://bagusaji.dev
   fathom_site_id: XXXXXX
 
-previewify_site_id: 755
+previewify_site_id: 000
 
 # TODO: Move to config/initializers.rb.
 collections:
