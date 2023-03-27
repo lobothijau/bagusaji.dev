@@ -29,3 +29,11 @@
     label: Read details 
     external: false
   thumbnail: balai-lelang-inspection.jpeg
+
+- name: Attendace Management App
+  description: Dokodemo-Kerja is an attendance management app helping companies manage their employee's remote work record with a desktop and mobile app. 
+  link:
+    href: /projects/dokodemo-kerja/
+    label: Read details 
+    external: false
+  thumbnail: dokodemo-kerja-record.jpeg
