@@ -156,9 +156,10 @@ module.exports = {
             borderRadius: 0,
           },
           figcaption: {
-            color: "var(--tw-prose-captions)",
+            color: theme("colors.zinc.700"),
             lineHeight: theme("lineHeight.6"),
             marginTop: theme("spacing.3"),
+            fontSize: theme("fontSize.sm")[0], 
           },
           "figcaption > p": {
             margin: 0,
