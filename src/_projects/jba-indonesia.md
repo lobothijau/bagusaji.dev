@@ -7,11 +7,11 @@ description: |
 
 PT JBA Indonesia is an automotive auction house that enabling online based auction right from the palm of your hands. The app was built with Flutter to be able to release the app for both Android and iOS to let customer bid in an online auction right from their phones from all over Indonesia.
 
-<img src="/images/projects/jba-bidding.jpeg" class="h-96 w-full object-cover"/>
+<img src="/images/projects/jba-bidding.webp" class="h-96 w-full object-cover"/>
 
 The app was built by the other mobile team member at [Logique](http://logique.co.id/) but I'm taking over the maintenance once it released. I've added tons of new feature even made some remake.
 
-<img src="/images/projects/jba-homepage.jpeg" class="h-96 w-full object-cover"/>
+<img src="/images/projects/jba-homepage.webp" class="h-96 w-full object-cover"/>
 
 ## Technologies
 

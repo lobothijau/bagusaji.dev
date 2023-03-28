@@ -4,7 +4,7 @@
     href: /projects/buma-digiman/
     label: Read details 
     external: false
-  thumbnail: digiman-form.png
+  thumbnail: digiman-form.webp
 
 - name: Online-based Fiduciary 
   description: Gadai ValueMax is a Flutter built project for Android and iOS to help customer perform fiduciary from the comfort of their home. 
@@ -12,7 +12,7 @@
     href: /projects/gadai-valuemax/
     label: Read details 
     external: false
-  thumbnail: gadai-front.jpeg
+  thumbnail: gadai-front.webp
 
 - name: Real Time Bidding 
   description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
@@ -20,7 +20,7 @@
     href: /projects/jba-indonesia/
     label: Read details 
     external: false
-  thumbnail: jba-splash.jpg
+  thumbnail: jba-splash.webp
 
 - name: Car & Bike Inspection 
   description: Universal Collection Inspection app digitalize car & bike inspection process with beautiful UI and smooth experience.
@@ -28,7 +28,7 @@
     href: /projects/universal-lelang-inspection/
     label: Read details 
     external: false
-  thumbnail: balai-lelang-inspection.jpeg
+  thumbnail: balai-lelang-inspection.webp
 
 - name: Attendace Management App
   description: Dokodemo-Kerja helping companies manage their employee's remote work record with a desktop and mobile app. 
@@ -36,7 +36,7 @@
     href: /projects/dokodemo-kerja/
     label: Read details 
     external: false
-  thumbnail: dokodemo-kerja-record.jpeg
+  thumbnail: dokodemo-kerja-record.webp
 
 - name: 3D Car Configurator
   description: VanHaven 3D Configurator let's user build custom transporter van in a web based 3D editor.
@@ -44,4 +44,4 @@
     href: /projects/vanhaven/
     label: Read details 
     external: false
-  thumbnail: vanhaven-2.jpeg
+  thumbnail: vanhaven-2.webp
