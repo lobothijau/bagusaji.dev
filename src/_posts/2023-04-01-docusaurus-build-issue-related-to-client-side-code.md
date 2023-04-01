@@ -82,3 +82,21 @@ I commit, push and got a green checkmark.
 <figure class=""><img src="/images/posts/docusaurus-issue-fixed.png" alt="" class=""/><figcaption class="text-center">Docusaurus build issue fixed</figcaption></figure>
 
 Issue fixed!
+
+But actually not!
+
+<figure class=""><img src="/images/posts/docusaurus-crashed.png" alt="" class=""/><figcaption class="text-center">Docusaurus crashed on production</figcaption></figure>
+
+It's compiled but the app crashed. To fix this I need to wrap HyvorTalk components inside a function because `<BrowserOnly>` children must be written inside a render function. 
+
+```jsx
+<BrowserOnly>
+  {() => <div>
+    <CommentCount websiteId={8715} />
+    <Embed
+      websiteId={8715}
+    />
+  </div>}
+
+</BrowserOnly>
+```
