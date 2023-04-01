@@ -9,7 +9,7 @@ categories: [Shopify, "3D Configurator"]
 
 This week I'm tinkering with Shopify theme files to modify the item detail page. On the detail page, instead of showing images, I would like to show a 3D model. 
 
-<figure class=""><img src="/images/posts/shopify-metafield.png" alt="" class=""/><figcaption class="text-center">Setup metafields</figcaption></figure>
+<figure class=""><img src="/images/posts/shopify-metafield.webp" alt="" class=""/><figcaption class="text-center">Setup metafields</figcaption></figure>
 
 First and foremost, I will need to have the extra information, in this case a URL to a 3D scene hosted outside Shopify. In shopify world, the extra data for any kind of information is called `metafield`. 
 
@@ -35,4 +35,4 @@ Since this is my first time tinkering with Shopify theme, I have no idea what th
 { { product.metafields.custom['3d_model_url'] } }
 ```
 
-<figure class=""><img src="/images/posts/shopify-3d-scene.png" alt="" class=""/><figcaption class="text-center">3D Scene Loaded on Shopify Product Page</figcaption></figure>
+<figure class=""><img src="/images/posts/shopify-3d-scene.webp" alt="" class=""/><figcaption class="text-center">3D Scene Loaded on Shopify Product Page</figcaption></figure>

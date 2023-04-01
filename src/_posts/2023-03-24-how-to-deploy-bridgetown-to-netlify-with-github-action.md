@@ -83,28 +83,28 @@ Github Actions will have access to `secrets.GITHUB_TOKEN` automatically each tim
 
 Since Netlify doesn't know how to handle Bridgetown, I can't choose **Import an existing project** or **Start from a template**. So, here I choose **Deploy manually**.
 
-![](/images/posts/netlify-create.png)
+![](/images/posts/netlify-create.webp)
 
 I don't know how, but I can't create empty Netlify site. To provide what being asked, I create a new folder, touch an `index.html` file and upload it. That way I could get a new Netlify site running. Once it created, access the site and choose **Site settings** menu. 
 
-![](/images/posts/netlify-site.png)
+![](/images/posts/netlify-site.webp)
 
 Here we can get the side id. 
 
-![](/images/posts/netlify-site-id.png)
+![](/images/posts/netlify-site-id.webp)
 
 On Github repository page, open **Settings** tab and access **Actions** menu under **Secrets and Variables**. 
 
-![](/images/posts/github-actions-secrets.png)
+![](/images/posts/github-actions-secrets.webp)
 
 Click the green **New repository secre** and input the data. Just make sure the name are the same. 
 
 To get Netlify personal access token, go to **User settings > Application** and click **New access token**. 
 
-![](/images/posts/netlify-access-token.png)
+![](/images/posts/netlify-access-token.webp)
 
 Once you get the access token, add it to Github Secrets. 
 
-![](/images/posts/netlify-access-token-github.png)
+![](/images/posts/netlify-access-token-github.webp)
 
 Now, every commit to main branch will trigger Github Action to run, build the static files and upload it to Netlify site. 

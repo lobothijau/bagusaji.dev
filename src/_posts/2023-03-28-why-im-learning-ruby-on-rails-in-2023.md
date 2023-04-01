@@ -30,11 +30,11 @@ permalink: /why-im-learing-ruby-on-rails-in-2023/
 
 <p>But Turbo Native is kind of different. It's using WebView, we controlled the page from Rails app (still need to prepare the native shell by hand), but the access to native feature could be done using Turbo Native, we don't have to wrote them manually. It's kind of similar to Ionic where we actually build using HTML &amp; CSS, but have access to native feature via Capacitor without connecting the native with the JS code by ourselves. It's very promising, I mean look at the production app using Turbo Native at AppStore. </p>
 
-<figure class=""><img src="/images/posts/CleanShot-2023-03-09-at-00.39.53@2x-1024x528.png" alt="" class=""/><figcaption class="text-center">Context Travel</figcaption></figure>
+<figure class=""><img src="/images/posts/CleanShot-2023-03-09-at-00.39.53@2x-1024x528.webp" alt="" class=""/><figcaption class="text-center">Context Travel</figcaption></figure>
 
-<figure class=""><img src="/images/posts/CleanShot-2023-03-09-at-00.40.24@2x-1024x716.png" alt="" class=""/><figcaption class="text-center">Basecamp</figcaption></figure>
+<figure class=""><img src="/images/posts/CleanShot-2023-03-09-at-00.40.24@2x-1024x716.webp" alt="" class=""/><figcaption class="text-center">Basecamp</figcaption></figure>
 
-<figure class=""><img src="/images/posts/Screenshot-2023-03-09-at-00.40.41-1024x443.png" alt="" class=""/><figcaption class="text-center">BeerMenus</figcaption></figure>
+<figure class=""><img src="/images/posts/Screenshot-2023-03-09-at-00.40.41-1024x443.webp" alt="" class=""/><figcaption class="text-center">BeerMenus</figcaption></figure>
 
 <h3>Conclusion</h3>
 

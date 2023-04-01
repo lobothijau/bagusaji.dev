@@ -9,7 +9,7 @@ category: Docusaurus
 
 Today I got an error build notification from Vercel for my Docusaurus site. 
 
-<figure class=""><img src="/images/posts/docusaurus-error.png" alt="" class=""/><figcaption class="text-center">Failed docusaurus build</figcaption></figure>
+<figure class=""><img src="/images/posts/docusaurus-error.webp" alt="" class=""/><figcaption class="text-center">Failed docusaurus build</figcaption></figure>
 
 The log said somehting about locale:
 
@@ -79,13 +79,13 @@ export default function PaginatorWrapper(props) {
 
 I commit, push and got a green checkmark. 
 
-<figure class=""><img src="/images/posts/docusaurus-issue-fixed.png" alt="" class=""/><figcaption class="text-center">Docusaurus build issue fixed</figcaption></figure>
+<figure class=""><img src="/images/posts/docusaurus-issue-fixed.webp" alt="" class=""/><figcaption class="text-center">Docusaurus build issue fixed</figcaption></figure>
 
 Issue fixed!
 
 But actually not!
 
-<figure class=""><img src="/images/posts/docusaurus-crashed.png" alt="" class=""/><figcaption class="text-center">Docusaurus crashed on production</figcaption></figure>
+<figure class=""><img src="/images/posts/docusaurus-crashed.webp" alt="" class=""/><figcaption class="text-center">Docusaurus crashed on production</figcaption></figure>
 
 It's compiled but the app crashed. To fix this I need to wrap HyvorTalk components inside a function because `<BrowserOnly>` children must be written inside a render function. 
 
