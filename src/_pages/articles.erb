@@ -15,9 +15,11 @@ permalink: /articles/
   </div>
 <% end %>
 
-<%= render UI::SimpleLayout.new(
-  intro: "And everything I've ever published, in reverse chronological order."
-) do %>
+<%= render UI::SimpleLayout.new() do %>
+  <h3 class="mb-6 text-xl font-bold text-zinc-900">
+    Older posts
+  </h3>
+  
   <div class="md:border-l md:border-zinc-100 md:pl-6">
     <div class="flex max-w-3xl flex-col space-y-16">
       <% collections.posts.resources.sort_by { |r| r.data.date }.reverse.each do |post| %>
