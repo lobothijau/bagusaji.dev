@@ -1,19 +1,19 @@
 ---
-title: Projects
+title: Portfolios
 description: |
   I've worked on a ton of projects and teach hundred of students.
   Here are some of my notable works. 
-permalink: /projects/
+permalink: /portfolios/
 
 ---
 
 <%= render UI::SimpleLayout.new(
-  title: "Portfolio",
+  title: "Portfolios",
   intro: resource.data.description
 ) do %>
   <ul role="list" class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
-    <% site.data.projects.each do |project| %>
-      <%= render Project.new(**project.to_h.to_options) %>
+    <% site.data.portfolios.each do |p| %>
+      <%= render Portfolio.new(**p.to_h.to_options) %>
     <% end %>
   </ul>
 <% end %>

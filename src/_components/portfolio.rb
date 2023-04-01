@@ -1,4 +1,4 @@
-class Project < SiteComponent
+class Portfolio < SiteComponent
   attr_reader :name, :description, :link, :thumbnail
 
   def initialize(name:, description:, link:, thumbnail:)

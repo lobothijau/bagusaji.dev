@@ -1,7 +1,7 @@
 - name: Heavy Equipment Inspection
   description: BUMA Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
   link:
-    href: /projects/buma-digiman/
+    href: /portfolios/buma-digiman/
     label: Read details 
     external: false
   thumbnail: digiman-form.webp
@@ -9,7 +9,7 @@
 - name: Online-based Fiduciary 
   description: Gadai ValueMax is a Flutter built project for Android and iOS to help customer perform fiduciary from the comfort of their home. 
   link:
-    href: /projects/gadai-valuemax/
+    href: /portfolios/gadai-valuemax/
     label: Read details 
     external: false
   thumbnail: gadai-front.webp
@@ -17,7 +17,7 @@
 - name: Real Time Bidding 
   description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
   link:
-    href: /projects/jba-indonesia/
+    href: /portfolios/jba-indonesia/
     label: Read details 
     external: false
   thumbnail: jba-splash.webp
@@ -25,7 +25,7 @@
 - name: Car & Bike Inspection 
   description: Universal Collection Inspection app digitalize car & bike inspection process with beautiful UI and smooth experience.
   link:
-    href: /projects/universal-lelang-inspection/
+    href: /portfolios/universal-lelang-inspection/
     label: Read details 
     external: false
   thumbnail: balai-lelang-inspection.webp
@@ -33,7 +33,7 @@
 - name: Attendace Management App
   description: Dokodemo-Kerja helping companies manage their employee's remote work record with a desktop and mobile app. 
   link:
-    href: /projects/dokodemo-kerja/
+    href: /portfolios/dokodemo-kerja/
     label: Read details 
     external: false
   thumbnail: dokodemo-kerja-record.webp
@@ -41,7 +41,7 @@
 - name: 3D Car Configurator
   description: VanHaven 3D Configurator let's user build custom transporter van in a web based 3D editor.
   link:
-    href: /projects/vanhaven/
+    href: /portfolios/vanhaven/
     label: Read details 
     external: false
   thumbnail: vanhaven-2.webp

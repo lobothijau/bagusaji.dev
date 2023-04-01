@@ -14,7 +14,7 @@ previewify_site_id: 000
 
 # TODO: Move to config/initializers.rb.
 collections:
-  projects:
+  portfolios:
     output: true
   snippets:
     output: false
@@ -22,5 +22,5 @@ collections:
 # TODO: Move to config/initializers.rb.
 feed:
   collections:
-    projects: 
-      path: /projects.xml
+    portfolios: 
+      path: /portfolios.xml

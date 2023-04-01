@@ -5,11 +5,11 @@ description: |
   Dokodemo-Kerja helping companies manage their employee's remote work record with a desktop and mobile app. 
 ---
 
-<img src="/images/projects/dokodemo-kerja-record.webp" class="h-96 w-full object-cover"/>
+<img src="/images/portfolios/dokodemo-kerja-record.webp" class="h-96 w-full object-cover"/>
 
 [Dokodemo-Kerja](https://dokodemo-kerja.com/) is an attendance management app helping companies manage their employee's remote work record with a desktop and mobile app. The mobile version built with **React Native** for multi-platform release. My colleague built the original app and I taking over maintenance work to fix bugs and adding new feature such as location-aware start session.
 
-<img src="/images/projects/dokodemo-kerja-holding.webp" class="h-96 w-full object-cover"/>
+<img src="/images/portfolios/dokodemo-kerja-holding.webp" class="h-96 w-full object-cover"/>
 
 Dokodemo-Kerja available for both [Android](https://play.google.com/store/apps/details?id=com.dokodemomobile&hl=uz&gl=US) and [iOS](https://apps.apple.com/id/app/dokodemo-kerja/id1506859201), but you need a subscription license.
 

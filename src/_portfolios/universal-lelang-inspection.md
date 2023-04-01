@@ -5,9 +5,9 @@ description: |
   Universal Collection Inspection app digitalize car & bike inspection process with beautiful and friendly mobile forms.
 ---
 
-Unicersal Collection (UC) is an automotive auction house similar to what [JBA Indonesia's doing](/projects/jba-indonesia/). But, the app I built was an app used by the auction house to inspect vehicles before they appeared on the auction. This app was built with Kotlin at [Logique](https://logique.co.id){:target="_blank"}.
+Unicersal Collection (UC) is an automotive auction house similar to what [JBA Indonesia's doing](/portfolios/jba-indonesia/). But, the app I built was an app used by the auction house to inspect vehicles before they appeared on the auction. This app was built with Kotlin at [Logique](https://logique.co.id){:target="_blank"}.
 
-<img src="/images/projects/balai-lelang-form.webp" class="h-96 w-full object-cover"/>
+<img src="/images/portfolios/balai-lelang-form.webp" class="h-96 w-full object-cover"/>
 
 ## Technologies
 
