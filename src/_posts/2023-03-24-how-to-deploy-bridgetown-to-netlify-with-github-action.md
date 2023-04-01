@@ -3,6 +3,7 @@ title: Deploy Bridgetown to Netlify using Github Action
 date: 2023-03-24
 description: |
   Learn how to deploy Bridgetown SSG to netlify using Github Action easily.
+categories: Bridgetown Netlify
 ---
 
 This site you're reading now is developed with [Bridgetown](https://www.bridgetownrb.com/) (which I forked from [masilotti.com](https://masilotti.com)), a Static Site Generator built with Ruby. 

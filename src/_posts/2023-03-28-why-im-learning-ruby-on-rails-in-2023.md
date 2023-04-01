@@ -2,10 +2,8 @@
 title: Why I'm Learning Ruby on Rails in 2023
 date: 2023-03-28
 description: |
-  Use familiar HTML testing tools to test drive PDF generation by combining
-  wicked_pdf with some asset pipeline knowledge.
+  Mobile application development is a broad field. It has many frameworks, each rameworks have deep and broad technologies to explore as master. So, why learning Ruby on Rails in 2023? 
 permalink: /why-im-learing-ruby-on-rails-in-2023/
-
 ---
 
 <p>Mobile application development is a broad field. It has many frameworks, each rameworks have deep and broad technologies to explore as master. So, why learning Ruby on Rails in 2023? </p>

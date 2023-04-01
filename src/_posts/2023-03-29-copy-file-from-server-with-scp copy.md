@@ -5,7 +5,7 @@ description: |
   We could download files from a remote server to local computer via SSH 
   using a tool named scp. 
 permalink: /copy-file-from-server-with-scp-ssh/
-
+category: "Command Line"
 ---
 
 Yesterday I need to move an [article from WordPress](/why-im-learing-ruby-on-rails-in-2023/). Since I haven't pay the server, my WordPress site *somewhat* broken. I can't logged in into the admin dashboard to get the data I want. 

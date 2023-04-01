@@ -1,9 +1,10 @@
 ---
 title: Docusaurus Build Issue Related to Client Side Code
-date: 2023-03-29
+date: 2023-04-01 16:00:00 +0700
 description: |
   One of my personal website built with Docusaurus having a build issue. The source of the problem is that I put client side code on a server rendered part.
 permalink: /docusaurus-build-issue-related-to-client-side-code/
+category: Docusaurus
 ---
 
 Today I got an error build notification from Vercel for my Docusaurus site. 
