@@ -8,7 +8,7 @@ staging:
 
 production:
   url: https://bagusaji.dev
-  fathom_site_id: XXXXXX
+  fathom_site_id: AWYWDGCE
 
 previewify_site_id: 000
 
