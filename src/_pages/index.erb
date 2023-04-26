@@ -29,7 +29,7 @@ hide_avatar: true
 
     <div class="mt-6 flex gap-6">
       <% site.data.socials.each do |title, social| %>
-        <a href="<%= social.href %>" aria-label="<%= title.titleize %>" class="group -m-1 p-1">
+        <a href="<%= social.href %>" aria-label="<%= title.titleize %>" class="group -m-1 p-1" target=_blank>
           <%= svg "/images/icons/#{social.icon}.svg", class: "h-6 w-6 fill-zinc-400 transition group-hover:fill-zinc-600" %>
         </a>
       <% end %>
