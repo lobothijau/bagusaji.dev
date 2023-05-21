@@ -10,7 +10,7 @@ gem "bridgetown-view-component"
 
 gem "dotenv"
 gem "faraday"
-gem "view_component"
+gem "view_component", '~> 2.49'
 
 group :development do
   gem "puma", "~> 5.6"
