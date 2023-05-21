@@ -45,3 +45,11 @@
     label: Read details 
     external: false
   thumbnail: vanhaven-2.webp
+
+- name: Buku Catur
+  description: Digital chess book with interactive board, build with Kotlin for Android native. 
+  link:
+    href: /portfolios/buku-catur/
+    label: Read details
+    external: false
+  thumbnail: bukucatur-1.jpg
