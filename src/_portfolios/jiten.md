@@ -1,5 +1,5 @@
 ---
-title: Jiten (2021)
+title: Jiten (2019)
 date: 2023-05-21
 description: |
   Jiten is an Android-based Japanese-Indonesian dictionary to help user browse words using katakana, hiragana, and kanji.
