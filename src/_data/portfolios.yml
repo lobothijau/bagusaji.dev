@@ -53,3 +53,11 @@
     label: Read details
     external: false
   thumbnail: bukucatur-1.jpg
+
+- name: Japanese-Indonesia Offline Dictionary
+  description: Android-based offline Japanese-Indonesian dictionary to help learner browse words using katakana, hiragana or kanji.
+  link:
+    href: /portfolios/jiten/
+    label: Read details
+    external: false
+  thumbnail: jiten-1.jpg
