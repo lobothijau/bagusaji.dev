@@ -1,6 +1,6 @@
 ---
 title: Dispensing Robotics (2023)
-date: 2023-10-**15**
+date: 2023-09-29
 description: |
   Fullstack web development for dispensingrobotics.com, an industrial based company with global customer.
 ---
