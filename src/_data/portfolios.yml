@@ -1,63 +1,71 @@
-- name: Heavy Equipment Inspection
-  description: BUMA Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
+- name: Dispensing Robotics (2023)
+  description: Fullstack web development for dispensingrobotics.com, an industrial based company with global customer.
   link:
-    href: /portfolios/buma-digiman/
-    label: Read details 
-    external: false
-  thumbnail: digiman-form.webp
-
-- name: Online-based Fiduciary 
-  description: Gadai ValueMax is a Flutter built project for Android and iOS to help customer perform fiduciary from the comfort of their home. 
-  link:
-    href: /portfolios/gadai-valuemax/
-    label: Read details 
-    external: false
-  thumbnail: gadai-front.webp
-
-- name: Real Time Bidding 
-  description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
-  link:
-    href: /portfolios/jba-indonesia/
-    label: Read details 
-    external: false
-  thumbnail: jba-splash.webp
-
-- name: Car & Bike Inspection 
-  description: Universal Collection Inspection app digitalize car & bike inspection process with beautiful UI and smooth experience.
-  link:
-    href: /portfolios/universal-lelang-inspection/
-    label: Read details 
-    external: false
-  thumbnail: balai-lelang-inspection.webp
-
-- name: Attendace Management App
-  description: Dokodemo-Kerja helping companies manage their employee's remote work record with a desktop and mobile app. 
-  link:
-    href: /portfolios/dokodemo-kerja/
-    label: Read details 
-    external: false
-  thumbnail: dokodemo-kerja-record.webp
-
-- name: 3D Car Configurator
-  description: VanHaven 3D Configurator let's user build custom transporter van in a web based 3D editor.
-  link:
-    href: /portfolios/vanhaven/
-    label: Read details 
+    href: /portfolios/dispensing-robotics/
+    label: "Web Development"
     external: false
   thumbnail: vanhaven-2.webp
 
-- name: Buku Catur
+- name: 3D Car Configurator (2023)
+  description: VanHaven 3D Configurator let's user build custom transporter van in a web based 3D editor.
+  link:
+    href: /portfolios/vanhaven/
+    label: "Web Development"
+    external: false
+  thumbnail: vanhaven-2.webp
+
+- name: Real Time Auction (2022-2023)
+  description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
+  link:
+    href: /portfolios/jba-indonesia/
+    label: Flutter
+    external: false
+  thumbnail: jba-splash.webp
+
+- name: Online-based Fiduciary (2022-2023)
+  description: Gadai ValueMax is a Flutter built project for Android and iOS to help customer perform fiduciary from the comfort of their home. 
+  link:
+    href: /portfolios/gadai-valuemax/
+    label: Flutter
+    external: false
+  thumbnail: gadai-front.webp
+
+- name: Heavy Equipment Inspection (2021-2022)
+  description: BUMA Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
+  link:
+    href: /portfolios/buma-digiman/
+    label: Android Development
+    external: false
+  thumbnail: digiman-form.webp
+
+- name: Car & Bike Inspection (2022-2023)
+  description: Universal Collection Inspection app digitalize car & bike inspection process with beautiful UI and smooth experience.
+  link:
+    href: /portfolios/universal-lelang-inspection/
+    label: Android Development
+    external: false
+  thumbnail: balai-lelang-inspection.webp
+
+- name: Attendace Management App (2021-2022)
+  description: Dokodemo-Kerja helping companies manage their employee's remote work record with a desktop and mobile app. 
+  link:
+    href: /portfolios/dokodemo-kerja/
+    label: React Native
+    external: false
+  thumbnail: dokodemo-kerja-record.webp
+
+- name: Buku Catur (2020)
   description: Digital chess book with interactive board, build with Kotlin for Android native. 
   link:
     href: /portfolios/buku-catur/
-    label: Read details
+    label: Android Development
     external: false
   thumbnail: bukucatur-1.jpg
 
-- name: Japanese-Indonesia Offline Dictionary
+- name: Japanese-Indonesia Offline Dictionary (2020)
   description: Android-based offline Japanese-Indonesian dictionary to help learner browse words using katakana, hiragana or kanji.
   link:
     href: /portfolios/jiten/
-    label: Read details
+    label: Android Development
     external: false
   thumbnail: jiten-1.jpg
