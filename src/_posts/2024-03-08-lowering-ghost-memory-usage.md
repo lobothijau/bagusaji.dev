@@ -84,3 +84,5 @@ If the above command doesn't print anything, it means you failed to create a swa
 ```
 free -h
 ```
+
+After watching the RAM usage of my droplet, I saw that the usage lower to 50-60%. Not bad for a cheap server isn't it?
