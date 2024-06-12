@@ -1,14 +1,16 @@
 ---
 title: Dispensing Robotics (2023)
-date: 2023-09-29
+date: 2023-12-12
 description: |
   Fullstack web development for dispensingrobotics.com, an industrial based company with global customer.
 ---
 
-<img src="/images/portfolios/vanhaven-2.webp" class="h-96 w-full object-cover"/>
+<img src="/images/portfolios/dispensingrobots.jpg" class="h-96 w-full object-cover"/>
 
-VanHaven 3D Configurator is a web based app built to let user order custom transporter van. User could pick any feature they want to add, any color they want to have with a slick and user friendly menus. I build the frontend side of this site using vanilla **HTML, CSS and JavaScript** while my friend build the 3D model. 
+Dispensing Robotics is a manufacturing company that sells industrial tools such as dispensing valve & pump controller. This website developed using Laravel to build the frontend and the cms dashboard. 
 
-<img src="/images/portfolios/vanhaven-1.webp" class="h-96 w-full object-cover"/>
+There are custom product configurator which calculate user input and find the most suitable machine they need. 
 
-The project is completed and online, but the main site is not completed yet (developed by other vendor). Visit the completed website [here](http://configurator.vanhaven.co.uk).
+<img src="/images/portfolios/dr-form.png" class=" w-full"/>
+
+The project is completed and online, visit them [https://dispenserobotics.com/](https://dispenserobotics.com/).
