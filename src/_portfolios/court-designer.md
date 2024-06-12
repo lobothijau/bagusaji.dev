@@ -1,5 +1,5 @@
 ---
-title: Basketball Court 3D Designer (2024)
+title: 3D Basketball Court Designer (2024)
 date: 2024-04-01
 description: |
   3D Configurator web app using Three.js to design custom basketball court.
