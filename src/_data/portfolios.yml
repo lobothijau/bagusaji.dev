@@ -22,6 +22,14 @@
     external: false
   thumbnail: vanhaven-2.webp
 
+- name: Hino-Connect (2020-2024)
+  description: Hino-Connect is a fleet management app to monitor truck movement and other data. 
+  link:
+    href: /portfolios/hino-connect/
+    label: Android
+    external: false
+  thumbnail: hino-connect.jpeg
+
 - name: Real Time Auction (2022-2023)
   description: JBA Indonesia is a Flutter built project for Android and iOS to enable online auction right from your phone from all over Indonesia.
   link:
