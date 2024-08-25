@@ -2,7 +2,7 @@
 title: Don't Spend Time Configuring Tools, Learn Rails Instead
 date: 2024-08-25 08:00:00 +0700
 description: |
-  Test
+  I spend an hour battling asdf conguration while it takes just minutes with rbenv.
 category: Rails
 published: true
 ---
