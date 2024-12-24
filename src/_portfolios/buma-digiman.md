@@ -5,23 +5,30 @@ description: |
   Bukit Makmur Mandiri Utama Digiman is an Android only apps built with Kotlin to digitalized mining-vehicle inspection workflow.
 ---
 
-Bukit Makmur Mandiri Utama Digital Maintenance or BUMA Digiman for short, is an Android application developed to helps mining-vehicle maintenance workflow. The main feature of this app is an **offline-only** inspection mode. 
-
 <img src="/images/portfolios/digiman-frontpage.webp" class="h-96 w-full object-cover"/>
 
-BUMA is the second biggest coal mining contractor company in Indonesia. They owned more than 2500 highly advanced mining vehicles consisting of well known manufacturers such as Komatsu, Caterpillar, Hitachi, Volvo, Scania and Mercedes. 
+Engineered BUMA Digiman, a sophisticated native Android application for Indonesia's second-largest mining contractor, digitalizing maintenance operations for their thousand of mining vehicle fleet. Specialized in offline-first architecture to enable uninterrupted inspections in remote mining locations.
 
-<img src="/images/portfolios/digiman-spv.webp" class="h-96 w-full object-cover"/>
-
-In order to digitalized the workflow for maintaining those mining-vehicles, BUMA needs to develop a mobile apps for the inspectors, foreman, mechanics, and supervisors. The app is called BUMA Digiman. 
+Technical Implementation:
+- Architected robust offline-first system using Room/SQLite enabling:
+  - Complete vehicle inspection workflows without network connectivity
+  - Multi-format data collection (checklists, photos, documents, digital signatures)
+  - Automatic data synchronization using WorkManager when connectivity resumes
+- Developed role-based access control system distinguishing between supervisor and inspector capabilities
+- Integrated enterprise authentication using Microsoft Authentication Library (MSAL) with Azure services
+- Built comprehensive inspection system handling:
+  - Dynamic form generation and validation
+  - Photo and document upload management
+  - Digital signature capture and verification
+  - Automated synchronization queuing
 
 <img src="/images/portfolios/digiman-inspection.webp" class="h-96 w-full object-cover"/>
 
-I build this application with the other 2 mobile team members of [Logique](http://logique.co.id/). 
+Key Technical Achievements:
+- Engineered offline data management system handling complex inspection data types
+- Implemented automatic background synchronization using WorkManager
+- Built enterprise-grade authentication with MSAL/Azure integration
+- Created role-specific features and workflows
+- Developed reliable local storage architecture using Room
 
-
-## Technologies
-
-BUMA Digiman developed using native Android technologies using Kotlin as the main programming language. The local database is implemented using SQLite with Room. 
-
-Authentication system for this app was integrated with Microsoft Authentication Library (MSAL) which connected to their Azure services. 
+<img src="/images/portfolios/digiman-spv.webp" class="h-96 w-full object-cover"/>
