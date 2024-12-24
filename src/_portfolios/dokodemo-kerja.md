@@ -7,16 +7,26 @@ description: |
 
 <img src="/images/portfolios/dokodemo-kerja-record.webp" class="h-96 w-full object-cover"/>
 
-[Dokodemo-Kerja](https://dokodemo-kerja.com/) is an attendance management app helping companies manage their employee's remote work record with a desktop and mobile app. The mobile version built with **React Native** for multi-platform release. My colleague built the original app and I taking over maintenance work to fix bugs and adding new feature such as location-aware start session.
+Enhanced and maintained [Dokodemo-Kerja](https://dokodemo-kerja.com/), a React Native attendance management system that enables secure remote work tracking across iOS and Android platforms. Implemented location-based attendance verification while ensuring system integrity.
+
+Technical Implementation:
+- Integrated sophisticated location tracking system using [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation):
+  - Real-time position logging during work sessions
+  - Reliable background operation management
+  - Cross-platform location services handling
+- Engineered security measures including root detection to prevent system manipulation
+- Implemented analytics and reporting using Firebase Analytics
+- Built efficient background task handling with React Native Background Fetch
+- Maintained cross-platform compatibility ensuring consistent behavior across devices
 
 <img src="/images/portfolios/dokodemo-kerja-holding.webp" class="h-96 w-full object-cover"/>
 
+
+Key Technical Features:
+- Location-aware attendance tracking
+- Automated background operation handling
+- Device security verification system
+- Cross-platform analytics integration
+- Secure work session management
+
 Dokodemo-Kerja available for both [Android](https://play.google.com/store/apps/details?id=com.dokodemomobile&hl=uz&gl=US) and [iOS](https://apps.apple.com/id/app/dokodemo-kerja/id1506859201), but you need a subscription license.
-
-
-## Technologies
-
-The app uses [Background Geolocation for React Native](https://github.com/transistorsoft/react-native-background-geolocation), a sophisticated background location-tracking & geofencing module for React Native. With the help of [React Native Background Fetch](https://github.com/transistorsoft/react-native-background-fetch) the app can work when the app is in the background. 
-
-For it's state management, Dokodemo-Kerja uses Redux. 
-

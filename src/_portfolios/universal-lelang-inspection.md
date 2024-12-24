@@ -5,12 +5,29 @@ description: |
   Universal Collection Inspection app digitalize car & bike inspection process with beautiful and friendly mobile forms.
 ---
 
-Unicersal Collection (UC) is an automotive auction house similar to what [JBA Indonesia's doing](/portfolios/jba-indonesia/). But, the app I built was an app used by the auction house to inspect vehicles before they appeared on the auction. This app was built with Kotlin at [Logique](https://logique.co.id){:target="_blank"}.
-
 <img src="/images/portfolios/balai-lelang-form.webp" class="h-96 w-full object-cover"/>
 
-## Technologies
+Engineered Universal Collection's specialized vehicle inspection application, streamlining pre-auction vehicle assessment processes for internal staff. Built as a native Android application using Kotlin, focusing on efficient inspection workflows and reliable data handling.
 
-Feature-wise, this app is fairly simple because it only do one thing and doing it very well. As a native Kotlin-based Android app it uses Retrofit for networking, Room for local database, leverage release flavoring (DEV, STAING, PRODUCTION) for development and QA.
+Technical Implementation:
+- Developed comprehensive vehicle inspection system including:
+  - Detailed condition assessment checklists
+  - Paint condition verification tools
+  - Custom photo capture and management system
+  - Image editing and compression pipeline
+- Built robust offline-first architecture using:
+  - Room database for local data persistence
+  - SQLite caching for offline operations
+  - Retrofit for efficient API communication
+- Created multi-environment deployment pipeline (Development, Staging, Production)
+- Engineered efficient image processing system with:
+  - Built-in photo editor for inspection documentation
+  - Image compression for optimal storage and transfer
+  - Organized photo management per vehicle
 
-The app distributed internally between the employee of the auction house, so there's no Play Store link to share.
+Key Technical Features:
+- Streamlined vehicle inspection workflow
+- Integrated image processing and optimization
+- Offline data persistence
+- License plate-based vehicle tracking
+- Environment-specific configurations

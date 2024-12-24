@@ -6,14 +6,29 @@ description: |
 ---
 <img src="/images/portfolios/hino-connect.jpeg" class="h-96 w-full object-cover"/>
 
-Hino-Connect is a native (Kotlin) Android application to monitor truck fleet owned by Hino. This app uses Retrofit & Room to handle data from the API and using Google Maps feature to show and group the fleets inside. 
+Engineered Hino-Connect, a native Android fleet management solution that provides real-time monitoring for Hino truck fleets. Built with Kotlin following modern Android development practices.
+
+Technical Implementation:
+- Maintained a native Android application using Kotlin, implementing clean architecture patterns for maintainable and testable code
+- Developed comprehensive fleet monitoring features including:
+  - Real-time vehicle positioning with custom Google Maps clustering logic
+  - Fuel consumption monitoring and analysis
+  - Driver behavior tracking and reporting system
+- Implemented robust data handling using:
+  - Retrofit for efficient API communication
+  - Room database for optimized data caching
+  - Custom data synchronization logic between local and remote sources
+- Integrated Google Maps SDK with custom markers and clustering algorithms for efficient fleet visualization
+- Built secure enterprise authentication using Amazon Cognito
+- Created dynamic data visualizations using charting libraries for fleet analytics
+- Engineered location services for accurate geolocation tracking and geocoding
 
 <img src="/images/portfolios/hino-connect-all.jpg" class="w-full object-center" style="border-radius: 0 !important;"/>
 
-## Technologies
 
-- Google Maps
-- Geocoding & Geolocation
-- Amazon Cognito
-- Retrofit
-- Room
+Key Features:
+- Interactive map interface with custom fleet clustering
+- Real-time vehicle tracking and status updates
+- Comprehensive fuel monitoring system
+- Driver behavior analysis dashboard
+- Offline data access capabilities
